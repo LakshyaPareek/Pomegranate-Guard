@@ -130,7 +130,7 @@ This project is intended for educational, academic, and research purposes only.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 👨‍💻 Developer
 Created by Lakshya Pareek
-GitHub: https://github.com/Lakshya-Pareek-1
+GitHub: https://github.com/LakshyaPareek
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 PomegranateGuard — Intelligent AI-Based Disease Detection for Pomegranate Crops 🛡️
 
